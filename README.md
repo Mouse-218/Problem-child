@@ -2,7 +2,7 @@
 
 You have downloaded the complete dislilshit.js library ZIP file, yay!
 
-# Contents of the p5 folder
+# Contents of this folder
 
 * dislilshit.js file
 * dislilshit.min.js file
